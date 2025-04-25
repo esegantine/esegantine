@@ -10,9 +10,6 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="right" height="100cm" alt="Gabi"  src="https://s1.ezgif.com/tmp/ezgif-131ceed829d550.gif">
-</div>
 
 <div>
   <a href="https://www.instagram.com/esegantinee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
